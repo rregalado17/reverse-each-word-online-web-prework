@@ -1,3 +1,3 @@
-def reverse_each_word(sentence)
-  array = 
+def reverse_each_word(sentence1)
+  array = sentence1
 end
